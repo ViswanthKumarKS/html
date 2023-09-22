@@ -1,0 +1,51 @@
+body {
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+}
+.para {
+  color: white;
+  padding: 50px;
+  
+}
+div > h1 {
+  width: 80%;
+  font-size: 50px;
+  font-weight: 600;
+  margin-top: 80px;
+  font-style: normal;
+  padding-top: 25px;
+}
+.img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  padding-right: 100px;
+  width: 500px;
+  height: 500px;
+}
+.para1 {
+  font-size: x-large;
+  width: 92%;
+  font-style: inherit;
+}
+.but {
+  background-color: cornflowerblue;
+  color: white;
+  display: flex;
+  justify-content: center;
+  justify-self: center;
+  align-items: center;
+  width: 250px;
+  height: 50px;
+  padding-right: 10px;
+  border-radius: 5px;
+  font-size: medium;
+  font-style: inherit;
+}
